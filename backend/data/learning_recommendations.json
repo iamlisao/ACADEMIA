@@ -1,0 +1,107 @@
+[
+    {
+        "recommendations": [
+            {
+                "activity": "Academic Vocabulary Practice",
+                "task": "Review 5 flagged academic words.",
+                "duration": "10 minutes"
+            },
+            {
+                "activity": "Vocabulary Review Session",
+                "task": "Practice words marked as Learning.",
+                "duration": "10 minutes"
+            }
+        ],
+        "saved_at": "2026-11-01T19:47:59.739125+00:00"
+    },
+    {
+        "recommendations": [
+            {
+                "activity": "Academic Vocabulary Practice",
+                "task": "Review 5 flagged academic words.",
+                "duration": "10 minutes"
+            },
+            {
+                "activity": "Vocabulary Review Session",
+                "task": "Practice words marked as Learning.",
+                "duration": "10 minutes"
+            }
+        ],
+        "saved_at": "2026-11-01T19:52:18.094936+00:00"
+    },
+    {
+        "recommendations": [
+            {
+                "activity": "Academic Vocabulary Practice",
+                "task": "Review 5 flagged academic words.",
+                "duration": "10 minutes"
+            },
+            {
+                "activity": "Vocabulary Review Session",
+                "task": "Practice words marked as Learning.",
+                "duration": "10 minutes"
+            }
+        ],
+        "saved_at": "2026-11-01T19:58:07.081458+00:00"
+    },
+    {
+        "recommendations": [
+            {
+                "activity": "Academic Vocabulary Practice",
+                "task": "Review these words: scientific",
+                "duration": "10 minutes"
+            },
+            {
+                "activity": "Vocabulary Review Session",
+                "task": "Practice words marked as Learning.",
+                "duration": "10 minutes"
+            },
+            {
+                "activity": "Next Learning Challenge",
+                "task": "Complete a new academic reading and vocabulary analysis.",
+                "duration": "15 minutes"
+            }
+        ],
+        "saved_at": "2026-11-01T20:02:52.687844+00:00"
+    },
+    {
+        "recommendations": [
+            {
+                "activity": "Academic Vocabulary Practice",
+                "task": "Review these words: scientific, university, critical, thinking, skill, need, information, compare, perspective, support, reliable",
+                "duration": "10 minutes"
+            },
+            {
+                "activity": "Vocabulary Review Session",
+                "task": "Practice words marked as Learning.",
+                "duration": "10 minutes"
+            },
+            {
+                "activity": "Next Learning Challenge",
+                "task": "Complete a new academic reading and vocabulary analysis.",
+                "duration": "15 minutes"
+            }
+        ],
+        "saved_at": "2026-11-01T20:06:45.196252+00:00"
+    },
+    {
+        "recommendations": [
+            {
+                "activity": "Academic Vocabulary Practice",
+                "task": "Review these words: scientific, university, critical, thinking, skill, need, information, compare, perspective, support, reliable",
+                "duration": "10 minutes"
+            },
+            {
+                "activity": "Vocabulary Review Session",
+                "task": "Practice words marked as Learning.",
+                "duration": "10 minutes"
+            },
+            {
+                "activity": "Next Learning Challenge",
+                "task": "Complete a new academic reading and vocabulary analysis.",
+                "duration": "15 minutes"
+            }
+        ],
+        "saved_at": "2026-11-01T20:31:33.457212+00:00"
+    }
+]

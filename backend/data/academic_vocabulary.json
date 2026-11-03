@@ -1,0 +1,214 @@
+
+{
+  "vocabulary": [
+    {
+      "word": "analyze",
+      "japanese": "分析する",
+      "definition": "To examine something carefully in order to understand it.",
+      "part_of_speech": "verb",
+      "category": "academic_skills",
+      "level": "L3",
+      "field": ["general_academic"],
+      "example": "Students analyze the results of the experiment.",
+      "related_words": ["analysis", "analytical"]
+    },
+    {
+      "word": "evidence",
+      "japanese": "証拠、根拠",
+      "definition": "Information or facts that support an idea or conclusion.",
+      "part_of_speech": "noun",
+      "category": "academic_skills",
+      "level": "L2",
+      "field": ["general_academic", "science"],
+      "example": "The researcher presented evidence to support the theory.",
+      "related_words": ["evident", "evidently"]
+    },
+    {
+      "word": "evaluate",
+      "japanese": "評価する",
+      "definition": "To judge the quality, importance, or effectiveness of something.",
+      "part_of_speech": "verb",
+      "category": "academic_skills",
+      "level": "L4",
+      "field": ["general_academic"],
+      "example": "Students evaluate different arguments in an essay.",
+      "related_words": ["evaluation"]
+    },
+    {
+      "word": "significant",
+      "japanese": "重要な、重大な",
+      "definition": "Important or large enough to have an effect.",
+      "part_of_speech": "adjective",
+      "category": "academic_descriptions",
+      "level": "L3",
+      "field": ["general_academic", "science"],
+      "example": "The study found a significant difference between the groups.",
+      "related_words": ["significance", "significantly"]
+    },
+    {
+      "word": "demonstrate",
+      "japanese": "示す、実証する",
+      "definition": "To show clearly that something is true or that something exists.",
+      "part_of_speech": "verb",
+      "category": "academic_skills",
+      "level": "L4",
+      "field": ["general_academic", "science"],
+      "example": "The results demonstrate the importance of education.",
+      "related_words": ["demonstration"]
+    },
+    {
+      "word": "investigate",
+      "japanese": "調査する、研究する",
+      "definition": "To examine a subject systematically in order to discover facts.",
+      "part_of_speech": "verb",
+      "category": "academic_skills",
+      "level": "L3",
+      "field": ["general_academic", "science"],
+      "example": "Researchers investigate the causes of climate change.",
+      "related_words": ["investigation"]
+    },
+    {
+      "word": "hypothesis",
+      "japanese": "仮説",
+      "definition": "An idea or explanation that can be tested through research.",
+      "part_of_speech": "noun",
+      "category": "academic_skills",
+      "level": "L4",
+      "field": ["science"],
+      "example": "The scientist developed a hypothesis before conducting the experiment.",
+      "related_words": ["hypothesize", "hypothetical"]
+    },
+    {
+      "word": "develop",
+      "japanese": "発展させる、開発する",
+      "definition": "To grow, improve, or create something over time.",
+      "part_of_speech": "verb",
+      "category": "academic_skills",
+      "level": "L2",
+      "field": ["general_academic", "technology"],
+      "example": "Researchers develop new methods to solve complex problems.",
+      "related_words": ["development", "developmental"]
+    },
+    {
+      "word": "complex",
+      "japanese": "複雑な",
+      "definition": "Consisting of many connected parts and therefore difficult to understand.",
+      "part_of_speech": "adjective",
+      "category": "academic_descriptions",
+      "level": "L3",
+      "field": ["general_academic", "science"],
+      "example": "The study examines a complex social issue.",
+      "related_words": ["complexity"]
+    },
+    {
+      "word": "critical",
+      "japanese": "批判的な、重要な",
+      "definition": "Involving careful judgment and evaluation.",
+      "part_of_speech": "adjective",
+      "category": "academic_descriptions",
+      "level": "L3",
+      "field": ["general_academic"],
+      "example": "Critical thinking is essential in university studies.",
+      "related_words": ["critically", "criticism"]
+    },
+    {
+      "word": "thinking",
+      "japanese": "思考、考えること",
+      "definition": "The process of considering ideas and information.",
+      "part_of_speech": "noun",
+      "category": "academic_skills",
+      "level": "L2",
+      "field": ["general_academic"],
+      "example": "Critical thinking helps students evaluate arguments.",
+      "related_words": ["think", "thought"]
+    },
+    {
+      "word": "skill",
+      "japanese": "技能、能力",
+      "definition": "An ability developed through learning and practice.",
+      "part_of_speech": "noun",
+      "category": "academic_skills",
+      "level": "L2",
+      "field": ["general_academic"],
+      "example": "Academic writing is an important university skill.",
+      "related_words": ["skilled", "skillful"]
+    },
+    {
+      "word": "interpret",
+      "japanese": "解釈する",
+      "definition": "To explain the meaning of information or evidence.",
+      "part_of_speech": "verb",
+      "category": "academic_skills",
+      "level": "L3",
+      "field": ["general_academic"],
+      "example": "Students interpret data before drawing conclusions.",
+      "related_words": ["interpretation", "interpretive"]
+    },
+    {
+      "word": "information",
+      "japanese": "情報",
+      "definition": "Facts or knowledge about a particular subject.",
+      "part_of_speech": "noun",
+      "category": "academic_skills",
+      "level": "L2",
+      "field": ["general_academic", "technology"],
+      "example": "Researchers collect information from reliable sources.",
+      "related_words": ["inform", "informative"]
+    },
+    {
+      "word": "compare",
+      "japanese": "比較する",
+      "definition": "To examine similarities and differences.",
+      "part_of_speech": "verb",
+      "category": "academic_skills",
+      "level": "L2",
+      "field": ["general_academic"],
+      "example": "The essay compares two different perspectives.",
+      "related_words": ["comparison", "comparative"]
+    },
+    {
+      "word": "perspective",
+      "japanese": "視点、見方",
+      "definition": "A particular way of viewing or understanding something.",
+      "part_of_speech": "noun",
+      "category": "academic_skills",
+      "level": "L3",
+      "field": ["general_academic"],
+      "example": "The researcher considers different perspectives.",
+      "related_words": ["perspective-taking"]
+    },
+    {
+      "word": "reliable",
+      "japanese": "信頼できる",
+      "definition": "Able to be trusted or depended on.",
+      "part_of_speech": "adjective",
+      "category": "academic_descriptions",
+      "level": "L3",
+      "field": ["general_academic", "science"],
+      "example": "Academic arguments should use reliable evidence.",
+      "related_words": ["reliability", "reliably"]
+    },
+    {
+      "word": "university",
+      "japanese": "大学",
+      "definition": "An institution of higher education.",
+      "part_of_speech": "noun",
+      "category": "academic_skills",
+      "level": "L2",
+      "field": ["general_academic"],
+      "example": "University students are expected to think critically.",
+      "related_words": ["university-level"]
+    },
+    {
+      "word": "scientific",
+      "japanese": "科学的な",
+      "definition": "Related to science or scientific methods.",
+      "part_of_speech": "adjective",
+      "category": "academic_descriptions",
+      "level": "L3",
+      "field": ["science", "general_academic"],
+      "example": "Researchers use scientific methods to investigate problems.",
+      "related_words": ["science", "scientifically"]
+    }
+  ]
+}
